@@ -7,7 +7,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title('Q&A Chatbot')
+st.title('NIT CHATBOT')
 
 # Initialize chat history
 if "messages" not in st.session_state:
